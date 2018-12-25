@@ -9,7 +9,7 @@ This is a repo for the notes I took in UW in my undergradaute years.
 Must Read
 =============
 © 2018 Kaiser All Rights Reserved !!!
-Please do not use it for business;
+\newline Please do not use it for business;
 Please indicate the author before spreading these notes;
 Please open an issue or email me if you find somewhere wrong in my notes or want to give recommendations;
 Please fork this repo if you want to contribute to the project;
