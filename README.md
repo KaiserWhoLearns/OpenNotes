@@ -33,10 +33,9 @@ I did not get 4.0 for every course, so sometimes my notes may be unreliable. Eve
 Wish you have a great experience of learning, and wish you have a satisfactory GPA.
 </p>
 <p>
-Please star my repo if you think it's useful  QAQ
-  ![QWQ](Notes/img/cat.jpg)
+Please star my repo if you think it's useful
 </p>
-
+![QAQ](https://github.com/KaiserKkaiser/Notes/blob/master/img/cat.jpg)
 Directory
 =============
 (Names of instructors are the names they used in emails)
