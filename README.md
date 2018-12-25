@@ -34,7 +34,7 @@ Wish you have a great experience of learning, and wish you have a satisfactory G
 </p>
 <p>
 Please star my repo if you think it's useful  QAQ
-  https://github.com/KaiserKkaiser/notes/master/cat.JPG
+  https://github.com/KaiserKkaiser/notes/master/cat.jpg
 </p>
 
 Directory
