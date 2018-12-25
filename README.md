@@ -36,6 +36,9 @@ Wish you have a great experience of learning, and wish you have a satisfactory G
 Please star my repo if you think it's useful
 </p>
 [QAQQAQ](Notes/img/cat.jpg)
+<p align="center">
+  <img src="Notes/img/cat.jpg" width="350" title="QAQ">
+</p>
 
 
 Directory
