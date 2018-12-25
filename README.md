@@ -37,7 +37,7 @@ Please star my repo if you think it's useful
 </p>
 [QAQQAQ](Notes/img/cat.jpg)
 <p align="center">
-  <img src="Notes/img/cat.jpg" width="350" title="QAQ">
+  <img src="https://github.com/KaiserKkaiser/Notes/blob/master/img/cat.jpg" width="350" title="QAQ">
 </p>
 
 
