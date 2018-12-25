@@ -35,7 +35,8 @@ Wish you have a great experience of learning, and wish you have a satisfactory G
 <p>
 Please star my repo if you think it's useful
 </p>
-![QAQ](https://github.com/KaiserKkaiser/Notes/blob/master/img/cat.jpg)
+![QAQ](https://raw.github.com/KaiserKkaiser/Notes/blob/master/img/cat.jpg)
+
 Directory
 =============
 (Names of instructors are the names they used in emails)
