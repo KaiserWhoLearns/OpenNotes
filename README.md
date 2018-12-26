@@ -1,9 +1,6 @@
 # Notes
 Contained some personal notes from the courses I took in University of Washington
 
-Descrpition
-=============
-This is a repo for the notes I took in UW in my undergradaute years.
 
 
 Must Read
@@ -33,9 +30,12 @@ I did not get 4.0 for every course, so sometimes my notes may be unreliable. Eve
 Wish you have a great experience of learning, and wish you have a satisfactory GPA.
 </p>
 <p>
-Please star my repo if you think it's useful  QAQ
-  ![QWQ](https://github.com/KaiserKkaiser/Notes/blob/master/cat.jpg)
+Please star my repo if you think it's useful
 </p>
+<p>
+  <img src="https://github.com/KaiserKkaiser/Notes/blob/master/img/cat.jpg" width="350" title="QAQ">
+</p>
+
 
 Directory
 =============
