@@ -1,6 +1,6 @@
 # Notes
 Contained some personal notes from the courses I took in University of Washington
-This is a repo for the notes I took in UW in my undergradaute years.
+
 
 
 Must Read
