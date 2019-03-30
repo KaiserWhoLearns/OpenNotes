@@ -18,6 +18,9 @@ Please open an issue if you find somewhere wrong in the notes or want to give re
 Please fork this repo or send me an email to make you a collaborator(recommended) if you want to contribute to the project;
 </p>
 <p>
+  Please make sure that you obtained the consent from your instructors before posting the notes!!!!!!!
+</p>
+<p>
 I did not get 4.0 for every course, so sometimes my notes may be unreliable. Even I got a 4.0 for a course, it also doesn't mean I have mastered it. Therefore, please do not totally depend on my notes: making your own notes might be helpful for learning. I hope they can just work as references for you.
 </p>
 <p>
@@ -63,7 +66,12 @@ Math 308, instructor: Reed Campbell Meyerson
 
 Be a Contributor
 =============
+<p>
 If you want to be a collaborator of the OpenNotes project, please email me with your github ID and what notes you want to add. Remember to add it in Readme, and indicate an author name. Create a folder with name indicated.
+</p>
+<p>
+  Please make sure that you obtained the consent from your instructors before posting the notes!!!!!!!
+</p>
 
 Copyright
 =============
