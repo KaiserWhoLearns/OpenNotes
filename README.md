@@ -1,5 +1,5 @@
 # Open Notes
-Contained some personal notes from the courses Kaiser took in University of Washington.
+Contained some personal notes from the courses in University of Washington, Seattle.
 
 
 
