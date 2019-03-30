@@ -1,4 +1,4 @@
-# Open Notes
+# OpenNotes
 Contained some personal notes from the courses in University of Washington, Seattle.
 
 
