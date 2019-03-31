@@ -1,8 +1,6 @@
 # OpenNotes
 Contained some personal notes from the courses in University of Washington, Seattle.
 
-
-
 Must Read
 =============
 <p>
@@ -79,4 +77,4 @@ If you want to be a collaborator of the OpenNotes project, please email me with 
 
 Copyright
 =============
-Â© 2018 OpenNotes All Rights Reserved
+© 2018-19 OpenNotes All Rights Reserved
