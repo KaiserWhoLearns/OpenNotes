@@ -77,4 +77,4 @@ If you want to be a collaborator of the OpenNotes project, please email me with 
 
 Copyright
 =============
-© 2018-19 OpenNotes All Rights Reserved
+Â© 2018-19 OpenNotes All Rights Reserved
