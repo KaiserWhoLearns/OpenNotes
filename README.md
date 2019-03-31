@@ -64,7 +64,11 @@ Math 308, instructor: Reed Campbell Meyerson
   AMath301, instructor: Benjamin Liu
 </p>  
 
-Be a Contributor
+Contributors
+=============
+Kaiser Sun;
+
+Become a Contributor
 =============
 <p>
 If you want to be a collaborator of the OpenNotes project, please email me with your github ID and what notes you want to add. Remember to add it in Readme, and indicate an author name. Create a folder with name indicated.
