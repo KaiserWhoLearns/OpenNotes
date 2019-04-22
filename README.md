@@ -1,5 +1,5 @@
 # OpenNotes
-Contained some personal notes from the courses in University of Washington, Seattle.
+Contained some notes from the courses in University of Washington, Seattle.
 
 Must Read
 =============
