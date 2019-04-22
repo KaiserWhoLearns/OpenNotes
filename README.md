@@ -19,48 +19,18 @@ Please fork this repo or send me an email to make you a collaborator(recommended
   Please make sure that you obtained the consent from your instructors before posting the notes!!!!!!!
 </p>
 <p>
-I did not get 4.0 for every course, so sometimes my notes may be unreliable. Even I got a 4.0 for a course, it also doesn't mean I have mastered it. Therefore, please do not totally depend on my notes: making your own notes might be helpful for learning. I hope they can just work as references for you.
+We did not get 4.0 for every course, so sometimes our notes may be unreliable. Even we got a 4.0 for a course, it also doesn't mean we have mastered it. Therefore, please do not totally depend on our notes: making your own notes might be helpful for learning. All of us hope they can just work as references for you.
 </p>
 <p>
 Wish you have a great experience of learning, and wish you have a satisfactory GPA.
 </p>
 <p>
-Please star my repo if you think it's useful
+Please star this repo if you think it's useful
 </p>
 <p>
   <img src="https://github.com/KaiserKkaiser/Notes/blob/master/img/cat.jpg" width="350" title="QAQ">
 </p>
 
-
-Directory
-=============
-18 Autumn(Author: Kaiser)
-<p>
-Math 307, instructor: Caleb L. Geiger
-</p>
-<p>
-Math 126, instructor: Dr. Andy Loveless
-</p>
-<p>
-CSE 143, instructor: Hunter Schafer
-</p>
-
-19 Winter(Author: Kaiser)
-<p>
-Math 324, instructor: Josh Southerland
-</p>
-<p>
-Math 308, instructor: Reed Campbell Meyerson
-</p>
-<p>
-  EE215, instructor: Professor.Lin
-</p>
-<p>
-  Phys123, instructor: Nikolai Tolich
-</p>
-<p>
-  AMath301, instructor: Benjamin Liu
-</p>  
 
 Contributors
 =============
@@ -69,7 +39,11 @@ Some UW students, waiting for you to join us!
 Become a Contributor
 =============
 <p>
-If you want to be a collaborator of the OpenNotes project, please email me with your github ID and what notes you want to add. Remember to add it in Readme, and indicate an author name. Create a folder with name indicated.
+If you want to be a collaborator of the OpenNotes project, please email me with your github ID and what notes you want to add. Remember to indicate an author name. Create a folder with name indicated.
+</p>
+<p>
+Or you can directly join our slack group.
+  https://join.slack.com/t/opennotesworkspace/shared_invite/enQtNTg1NjcwNjA1NjQ5LWNlYWU5MTYwZjRiY2NkODc3ZDM4NThjMzQ5ZjY0YWU4YTcwOWMyYjhkMDYyZWY4MzhiZjI4NjI3NmVmZjlkNjE
 </p>
 <p>
   Please make sure that you obtained the consent from your instructors before posting the notes!!!!!!!
