@@ -64,7 +64,7 @@ Math 308, instructor: Reed Campbell Meyerson
 
 Contributors
 =============
-Kaiser Sun;
+Some UW students, waiting for you to join us!
 
 Become a Contributor
 =============
