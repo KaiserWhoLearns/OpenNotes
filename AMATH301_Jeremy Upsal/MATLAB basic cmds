@@ -1,0 +1,97 @@
+%% MATLAB basics
+
+clear all; close all; clc; %% do this before beginning a new .mat file or section of code
+	- click "Run" in Editor window to test code
+	- use semicolons to suppress variables 
+	- diary September30.diary (diary NAME) %% records your inputs to the command window
+		○ diary off %% closes your diary 
+    
+load('yourMATFILE.mat') %% loads data from a .mat file containing variables
+a = load('s.dat') %% loads an individual dat file
+%% .m files store MATLAB code in the form of scripts (instructions)
+    
+Matrices and Plotting
+		○ 3*A = multiply everything in A by 3
+		○ A = A.*[1;2]; multiply A by vector B (1,2) aka multiply only second row by 2
+		○ x= A(1:2), get the first column, two rows.
+		○ Magic square
+		    magic(N) is an N-by-N matrix constructed from the integers
+		    1 through N^2 with equal row, column, and diagonal sums.
+		    Produces valid magic squares for all N > 0 except N = 2.
+		○ B = A(2,3:4), B is A's 2nd row 3rd and 4th column
+		○ size(A) = 4 4 
+			§ 4 rows
+			§ 4 columns
+		○ dot prime (.') %% complex numbers or matrix element-wise operations
+		○ y = y.' %% flip y from row vector to column vector and vice versa
+    ○ x = -10:0.1:10; y = exp(x)-tan(x); plot(x,y) %% plots x and y points on a single graph
+      %% exp() is e^(something)
+    ○ hold on %% this keeps your current graph if you continue to execute another plot function
+    ○ plot(x,y,'ko') %% plot with black circles, see 'help plot' for more colors
+    
+single quotation = string 'c'
+x = linspace(-2,2,10)
+		○ 10 evenly spaced points on a line, respect to x-axis
+		○ start with -2, ends with 2
+
+pause(1) %% pause time for 1 second
+
+%% Note: MATLAB starts indexing from 1, not 0 :(
+% ex: if array has 1 thing, the 1st thing is index 1
+if statement syntax:
+  if LOGICAL
+    %% your whatever code
+  else if LOGICAL
+    %% ..........
+  else
+    % blah
+  end
+for statement syntax:
+  for LOGICAL % example: for k = 1:80, for k = 1, k = 2..... k = 80
+    %% code
+  end
+
+How to Make a Good Graph
+  labels (x and y)
+			§ xlabel('x') %% create a label named 'x' for the x-axis
+			§ ylabel('y')
+	titles
+			§ title('my graph', 'Fontsize', 15)
+				□ font size 15
+				□ How to make everything font size 15?
+					® set(gca,'Fontsize',15)
+
+	Legend
+			§ legend('data 1', 'data 2', 'data 3')
+				□ have a legend corresponding to each data set
+				□ How to put legend in the best location???
+					® legend('data 1', 'data 2', 'data 3', 'Location', 'Best')
+					® can manually move the legend with your mouse
+					® legend(….. 'Location', ___)
+						◊ 'NorthEast'
+							} the default corner if nothing specified
+						◊ 'North'
+						◊ etc
+						◊ 'EastOutside' 
+							} outside the graph box and east of it
+				
+	Sub-Plots
+	  subplot(2,1,1)
+			§ 2 row 1 column will be your 1st figure (1st thing you 'plotted')
+    subplot(3,1,2)
+			§ 3 rows 1 column 2nd figure
+	    %% Can work with multiple Subplots!!!!!!!!!!!!!
+  grid on
+		○ helpful for visualization
+		○ shows grid when plotting
+	axis off 
+		○ takes off all the background lines from graph
+	show greek characters?
+		○ use backslash
+		○ xlabel('x \psi')
+  text within the graph
+		○ text(1,5, 'HALLO') % where do I want the text? (x,y) location
+    
+  A = '5555555';
+  title(['my graph A=' num2str(A)], 'Fontsize', 15) %% converts a number variable to a String
+  
